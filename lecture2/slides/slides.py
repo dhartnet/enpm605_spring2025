@@ -23,9 +23,9 @@ import sys
 # ----------------
 # </> 3
 # ----------------
-# a = 10
-
-# print(type(a))  # <class 'int'>
+numbers = [3,2,4,1]
+print(numbers.sort(reverse=True))
+print(numbers)
 # print(type(100.5))  # <class 'float'>
 # print(type(print))  # <class 'builtin_function_or_method'>
 
